@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Zemberek Kuşu'nun Güncesi",
+      "author": "Haruki Murakami",
+      "translate": "Nihal Önol",
+      "overview": "Toru’nun başına gelen olağandışı olaylar gerçek ile olağanüstü arasında gidip gelen romanın, yazarın dünyasını okuyucuya cömertçe ve hiçbir sınır tanımadan sunduğu kesin.",
+      "pages": 738,
+      "img": "271176"
+    },
+    {
+      "id": 2,
+      "title": "Yüzyıllık Yalnızlık",
+      "author": "Gabriel Garcia Marquez",
+      "translate": "Seçkin Selvi",
+      "overview": "Yüzyıllık Yalnızlık'ı yazmaya başladığımda, çocukluğumda beni etkilemiş olan her şeyi edebiyat aracılığıyla aktarabileceğim bir yol bulmak istiyordum.",
+      "pages": 464,
+      "img": "11437413"
+    },
+    {
+      "id": 3,
+      "title": "Murasaki Shikibu'nun Günlüğü",
+      "author": "Murasaki Shikibu",
+      "translate": "Esin Esen",
+      "overview": "Eserde canlı bir şekilde anlatılan Japon saray yaşamı ve törenlerin yanı sıra hakkında çok az bilgiye ulaşılan yazarın yaşamına dair önemli ipuçları da yer alır.",
+      "pages": 96,
+      "img": "118483"
+    },
+    {
+      "id": 4,
+      "title": "Uzakların Şarkısı",
+      "author": "Kaan Murat Yanık",
+      "translate": "Kaan Murat Yanık",
+      "overview": "Kars'a doğru giden Doğu Ekpresi treni ile başlayıp 18.yy Istanbul'una uzanıyor.",
+      "pages": 392,
+      "img": "11751777"
+    },
+    {
+      "id": 5,
+      "title": "Yeşilin Kızı Anne - Avonlea",
+      "author": "L.M.Montgomery",
+      "translate": "Esra Damla İpekçi",
+      "overview": "Duygusal kahramanımız Anne’in, renkli Avonlea kasabasındaki maceraları kaldığı yerden devam ediyor.",
+      "pages": 292,
+      "img": "11242929"
+    },
+    {
+      "id": 6,
+      "title": "Yumurta ve Kaşık",
+      "author": "Gregory Maguire",
+      "translate": "Bora Serkan Yavuz",
+      "overview": "Sefalet içinde bir köyden Rus sarayının şaşaalı balolarına sarsıntılı bir yolculuk.Büyülü yumurtalar ve gerçek kaşıklar",
+      "pages": 496,
+      "img": "4295920"
+    },
+    {
+      "id": 7,
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "translate": "Sabahattin Ali",
+      "overview": "esadüf seni önüme çıkarmasaydı, gene aynı şekilde, fakat her şeyden habersiz, yaşayıp gidecektim.",
+      "pages": 177,
+      "img": "7865895"
+    },
+    {
+      "id": 8,
+      "title": "Beyaz Gemi",
+      "author": "Cengiz Aytmatov",
+      "translate": "Cengiz Aytmatov",
+      "overview": "Engin ve korkutucu bir ormanın kıyısında, iyi yürekli dedesinin himayesine terk edilmiş küçük bir çocuk.",
+      "pages": 180,
+      "img": "11422255"
+    },
+    {
+      "id": 9,
+      "title": "İtaat Etmemek",
+      "author": "Frederic Gros",
+      "translate": "Zeynep Büşra Bölükbaşı",
+      "overview": "Ekonomik boyun eğişten toplum sözleşmesine, siyasi kabullenmeden vicdani redde, Diogenes’ten Thoreau’ya, Foucault’dan Arendt’e bireysel ya da toplumsal itaatsizliğin felsefi kökenleri.",
+      "pages": 168,
+      "img": "11283300"
+    }
+  ]
+}
