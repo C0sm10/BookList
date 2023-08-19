@@ -2,12 +2,12 @@
   "books": [
     {
       "id": 1,
-      "title": "Zemberek Kuşu'nun Güncesi",
-      "author": "Haruki Murakami",
-      "translate": "Nihal Önol",
-      "overview": "Toru’nun başına gelen olağandışı olaylar gerçek ile olağanüstü arasında gidip gelen romanın, yazarın dünyasını okuyucuya cömertçe ve hiçbir sınır tanımadan sunduğu kesin.",
-      "pages": 738,
-      "img": "271176"
+      "title": "Ya Ben Yoksam?",
+      "author": "Anil Ananthaswamy ",
+      "translate": "Duygu Akın ",
+      "overview": "Bugün benlik hakkında öğrendiklerimiz sayesinde, zihin ve beden arasında ayrım yapılamayacağını biliyoruz. Peki, o halde benlik tam olarak nerede yer alır.",
+      "pages": 252,
+      "img": "6684864"
     },
     {
       "id": 2,
@@ -20,21 +20,21 @@
     },
     {
       "id": 3,
-      "title": "Murasaki Shikibu'nun Günlüğü",
-      "author": "Murasaki Shikibu",
-      "translate": "Esin Esen",
-      "overview": "Eserde canlı bir şekilde anlatılan Japon saray yaşamı ve törenlerin yanı sıra hakkında çok az bilgiye ulaşılan yazarın yaşamına dair önemli ipuçları da yer alır.",
-      "pages": 96,
-      "img": "118483"
+      "title": "Huzursuz Ölüler",
+      "author": "Simon Beckett",
+      "translate": "Begüm Berkman",
+      "overview": "David Hunter, bilirkişi sıfatıyla dahil olduğu son vakada yaşanan skandalların ardından bir süredir davalara çağırılmıyordu.",
+      "pages": 432,
+      "img": "11579775"
     },
     {
       "id": 4,
-      "title": "Uzakların Şarkısı",
-      "author": "Kaan Murat Yanık",
-      "translate": "Kaan Murat Yanık",
-      "overview": "Kars'a doğru giden Doğu Ekpresi treni ile başlayıp 18.yy Istanbul'una uzanıyor.",
-      "pages": 392,
-      "img": "11751777"
+      "title": "Evren Avucunda",
+      "author": "Christophe Galfard",
+      "translate": "Duygu Akın",
+      "overview": "Bu kitabın iki vaadi var: sadece tek bir denklem kullanmak (E = mc2) ve hiçbir okuru geride bırakmamak..",
+      "pages": 380,
+      "img": "9108763"
     },
     {
       "id": 5,
@@ -56,30 +56,30 @@
     },
     {
       "id": 7,
-      "title": "Kürk Mantolu Madonna",
-      "author": "Sabahattin Ali",
-      "translate": "Sabahattin Ali",
-      "overview": "esadüf seni önüme çıkarmasaydı, gene aynı şekilde, fakat her şeyden habersiz, yaşayıp gidecektim.",
-      "pages": 177,
-      "img": "7865895"
+      "title": "Darwin Hack'leniyor",
+      "author": "Jamie Metzl",
+      "translate": "Duygu Akın",
+      "overview": "Genetik devrimin şafağında, DNA’mız tıpkı bilgi teknolojimiz gibi okunabilir, yazılabilir ve hack’lenebilir hale geliyor.",
+      "pages": 400,
+      "img": "11384795"
     },
     {
       "id": 8,
-      "title": "Beyaz Gemi",
-      "author": "Cengiz Aytmatov",
-      "translate": "Cengiz Aytmatov",
-      "overview": "Engin ve korkutucu bir ormanın kıyısında, iyi yürekli dedesinin himayesine terk edilmiş küçük bir çocuk.",
-      "pages": 180,
-      "img": "11422255"
+      "title": "Yazgı ve Gazap",
+      "author": "Lauren Groff",
+      "translate": "Begüm Berkman",
+      "overview": "Her hikâyenin iki tarafı vardır. Her ilişkide iki ayrı bakış açısı. Belki de iyi bir evliliğin sırrı doğrular değil de yalanlardır.",
+      "pages": 440,
+      "img": "9292311"
     },
     {
       "id": 9,
-      "title": "İtaat Etmemek",
-      "author": "Frederic Gros",
-      "translate": "Zeynep Büşra Bölükbaşı",
-      "overview": "Ekonomik boyun eğişten toplum sözleşmesine, siyasi kabullenmeden vicdani redde, Diogenes’ten Thoreau’ya, Foucault’dan Arendt’e bireysel ya da toplumsal itaatsizliğin felsefi kökenleri.",
-      "pages": 168,
-      "img": "11283300"
+      "title": "Evrendeki En Küçük Işıklar ",
+      "author": "Sara Seager",
+      "translate": "Duygu Akın",
+      "overview": "Her gezegenin yıldızı yoktur. Bazıları herhangi bir güneş sisteminde yer almaz. Tek başınadır onlar. Başıboş gezegen denir adlarına.",
+      "pages": 308,
+      "img": "11516715"
     }
   ]
 }
